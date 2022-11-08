@@ -13,7 +13,7 @@ namespace LookinSharp // Organizes code; container for classes and other namespa
             // Without the using System line, you'd have to write System.Console.WriteLine() for this to work
 
             string Homeboy = "Devon"; // Declaring a variable
-            Console.WriteLine("What's up, " + Homeboy); // Calling a declared variable
+            Console.WriteLine($"What's up, {Homeboy}"); // Calling a declared variable
         }
     }
 }
