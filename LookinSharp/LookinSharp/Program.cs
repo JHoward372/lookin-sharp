@@ -12,8 +12,11 @@ namespace LookinSharp // Organizes code; container for classes and other namespa
             Console.WriteLine("Hey there! Gahdamn, you looking real sharp!");
             // Without the using System line, you'd have to write System.Console.WriteLine() for this to work
 
-            string Homeboy = "Devon"; // Declaring a variable
-            Console.WriteLine($"What's up, {Homeboy}"); // Calling a declared variable
+            // Declaring variables
+            string FavAnime = "Naruto";
+            string FavAnime2 = "My Hero Academia";
+            string FavAnime3 = "Samurai Champloo";
+            Console.WriteLine($"My top three favorite anime are {FavAnime}, {FavAnime2}, and {FavAnime3}."); // Interpolating strings
         }
     }
 }
