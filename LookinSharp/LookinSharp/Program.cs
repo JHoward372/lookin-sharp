@@ -17,6 +17,12 @@ namespace LookinSharp // Organizes code; container for classes and other namespa
             string FavAnime3 = "Samurai Champloo";
             // A string without a declared name is called a string literal
             Console.WriteLine($"My top three favorite anime are {FavAnime}, {FavAnime2}, and {FavAnime3}."); // Interpolating strings
+
+            Console.WriteLine($"The title Naruto has {FavAnime.Length} letters in it.");
+            Console.WriteLine($"Okay. Well how many characters are in {FavAnime2} and {FavAnime3}?");
+            Console.WriteLine($"{FavAnime2} has {FavAnime2.Length} characters in it, and {FavAnime3} has {FavAnime3.Length}.");
+            Console.WriteLine($"Alright, got it. Thanks bro.");
+            Console.WriteLine("Anytime, bro.");
         }
     }
 }
