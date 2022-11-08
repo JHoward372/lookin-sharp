@@ -1,0 +1,15 @@
+C:\Users\JhordanAlexanderHowa\Desktop\the-canvas\lookin-sharp\LookinSharp\LookinSharp\bin\Debug\net6.0\LookinSharp.exe
+C:\Users\JhordanAlexanderHowa\Desktop\the-canvas\lookin-sharp\LookinSharp\LookinSharp\bin\Debug\net6.0\LookinSharp.deps.json
+C:\Users\JhordanAlexanderHowa\Desktop\the-canvas\lookin-sharp\LookinSharp\LookinSharp\bin\Debug\net6.0\LookinSharp.runtimeconfig.json
+C:\Users\JhordanAlexanderHowa\Desktop\the-canvas\lookin-sharp\LookinSharp\LookinSharp\bin\Debug\net6.0\LookinSharp.dll
+C:\Users\JhordanAlexanderHowa\Desktop\the-canvas\lookin-sharp\LookinSharp\LookinSharp\bin\Debug\net6.0\LookinSharp.pdb
+C:\Users\JhordanAlexanderHowa\Desktop\the-canvas\lookin-sharp\LookinSharp\LookinSharp\obj\Debug\net6.0\LookinSharp.csproj.AssemblyReference.cache
+C:\Users\JhordanAlexanderHowa\Desktop\the-canvas\lookin-sharp\LookinSharp\LookinSharp\obj\Debug\net6.0\LookinSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JhordanAlexanderHowa\Desktop\the-canvas\lookin-sharp\LookinSharp\LookinSharp\obj\Debug\net6.0\LookinSharp.AssemblyInfoInputs.cache
+C:\Users\JhordanAlexanderHowa\Desktop\the-canvas\lookin-sharp\LookinSharp\LookinSharp\obj\Debug\net6.0\LookinSharp.AssemblyInfo.cs
+C:\Users\JhordanAlexanderHowa\Desktop\the-canvas\lookin-sharp\LookinSharp\LookinSharp\obj\Debug\net6.0\LookinSharp.csproj.CoreCompileInputs.cache
+C:\Users\JhordanAlexanderHowa\Desktop\the-canvas\lookin-sharp\LookinSharp\LookinSharp\obj\Debug\net6.0\LookinSharp.dll
+C:\Users\JhordanAlexanderHowa\Desktop\the-canvas\lookin-sharp\LookinSharp\LookinSharp\obj\Debug\net6.0\refint\LookinSharp.dll
+C:\Users\JhordanAlexanderHowa\Desktop\the-canvas\lookin-sharp\LookinSharp\LookinSharp\obj\Debug\net6.0\LookinSharp.pdb
+C:\Users\JhordanAlexanderHowa\Desktop\the-canvas\lookin-sharp\LookinSharp\LookinSharp\obj\Debug\net6.0\LookinSharp.genruntimeconfig.cache
+C:\Users\JhordanAlexanderHowa\Desktop\the-canvas\lookin-sharp\LookinSharp\LookinSharp\obj\Debug\net6.0\ref\LookinSharp.dll
